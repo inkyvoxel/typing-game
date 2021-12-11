@@ -1,0 +1,12 @@
+devid=inkyvoxel
+devtitle=inkyvoxel
+gameid=typing-game
+gametitle=Typing Game
+version=0.3
+icon=metadata/logo.png
+
+# Uncomment the entry below to bytecode compile your Ruby code (Pro License Only)
+#compile_ruby=false
+
+# Uncomment the entry below to specify the package name for your APK (Pro License Only)
+#packageid=org.dev.gamename
